@@ -1,2 +1,3 @@
 # Text to Speech Converter
-![image](https://user-images.githubusercontent.com/62868878/108633715-b75cd780-749b-11eb-8b86-780eaa7c80d1.png)
+![tap-to-speak](https://user-images.githubusercontent.com/62868878/108633729-d3607900-749b-11eb-87ff-a5f8ed43b3ab.gif)
+
